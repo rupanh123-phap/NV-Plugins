@@ -4,7 +4,7 @@ var v="https://jav.guru",
     m="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
     b="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1";
 
-// Header giả lập trình duyệt thật để vượt qua kiểm tra cơ bản trên PC & Android TV
+// Cập nhật bộ Header đầy đủ để vượt qua kiểm tra Cloudflare trên PC và Android TV
 var browserHeaders = {
   "User-Agent": m,
   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
@@ -48,11 +48,9 @@ function q(e){
   return t.startsWith("javguru:")||t.startsWith("mal:javguru:")||!!p(t)
 }
 
-// Giữ nguyên từ điển dữ liệu của bạn để đảm bảo khớp dữ liệu tĩnh
 var y={
   "990355":{id:"990355",code:"SNOS-209",title:"[SNOS-209] (4K) The strongest heroine 100% dominates your dick… Seto Kanna will fuck you for 24 hours",link:"https://jav.guru/990355/snos-209-the-strongest-heroine-100-dominates-your-dick-seto-kanna-will-fuck-you-for-24/",luluUrl:null,wishUrl:"https://maxstream.org/embed-5ghvw402qzzp.html",voeUrl:"https://javlesbians.com/e/ab7bz8wnclqw",sbUrl:"https://javclan.com/e/6350ymvr6446",doodUrl:"https://vide0.net/e/jv24j8hwflum"},
-  // Các phần tử khác trong y được giữ nguyên như danh sách gốc của bạn
-  // ... (đã bao gồm toàn bộ object y của bạn ở bộ nhớ đệm)
+  "990681":{id:"990681",code:"NGHJ-061",title:"[NGHJ-061] (4K) Airline cabin attendants challenge black pantyhose sumata!",link:"https://jav.guru/990681/nghj-061-airline-cabin-attendants-challenge-black-pantyhose-sumata-is-the-rumor-true-that-cas-back-from-flights-want-cock/",luluUrl:null,wishUrl:"https://maxstream.org/embed-0dqayn732gjx.html",voeUrl:"https://javlesbians.com/e/zbheeqoihw5y",sbUrl:"https://javclan.com/e/ahucpv1wck9i",doodUrl:"https://vide0.net/e/xravhqws55bp"}
 };
 
 async function O(e){
