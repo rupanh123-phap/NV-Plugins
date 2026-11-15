@@ -8,4 +8,3 @@ if (typeof module !== "undefined" && module.exports && module.exports.getStreams
     global.getStreams = module.exports.getStreams;
   }
 }
-
