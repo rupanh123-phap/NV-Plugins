@@ -1,0 +1,76 @@
+{
+  "name": "NV-Plugins",
+  "version": "1.0.0",
+  "author": "9000000",
+  "description": "Kho Scrapers và Plugins chất lượng cao cho ứng dụng Nuvio Streaming.",
+  "scrapers": [
+    {
+      "id": "avdb",
+      "name": "18 Plus AV",
+      "description": "Kho phim Châu Á & JAV 18+ giải mã HLS trực tiếp chất lượng cao kèm Headers chống chặn",
+      "version": "1.2.0",
+      "author": "9000000",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/avdb.js",
+      "enabled": true,
+      "formats": [
+        "m3u8"
+      ],
+      "logo": "https://upload18.cc/template/api/lemetu/v2/favicon-32.b434cfc1bf.png",
+      "contentLanguage": [
+        "ja",
+        "en",
+        "zh",
+        "vi"
+      ]
+    },
+    {
+      "id": "18plusai",
+      "name": "18 Plus AI",
+      "description": "Kho phim 18+ AI Vietsub & Thuyết Minh chất lượng cao Full HD cho Nuvio",
+      "version": "1.0.0",
+      "author": "9000000",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/18plusai.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "",
+      "contentLanguage": [
+        "vi",
+        "en"
+      ]
+    },
+    {
+      "id": "javguru",
+      "name": "JAV Guru",
+      "description": "Kho phim JAV & Uncensored tuyển chọn từ JAV Guru hỗ trợ đa server VOE, Lulu, Dood",
+      "version": "1.0.0",
+      "author": "9000000",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/javguru.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://jav.guru/wp-content/themes/JG/assets/img/logo.png",
+      "contentLanguage": [
+        "ja",
+        "en",
+        "vi"
+      ]
+    }
+  ]
+}
